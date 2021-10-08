@@ -1,12 +1,9 @@
 const help = (prefix) => {
 	return `
 
-BOT PELO CANAL MS PLAY
+BOT CRIADO PELO ✧͢⃟ᤢAӃ✫ƴ❍ℜ❍₷ ፝⃟༘ 𓅂
 
-Canal MS PLAY: https://www.youtube.com/msplay
-Site oficial do bot do canal MS PLAY: http://whatsbot.xyz/
-	
-*COMANDOS PRA FIGURINHAS:*
+* COMANDOS DE FIGURINHA *
 
 Comandos: *${prefix}sticker* ou *${prefix}stiker*
 Desc: converter imagem / gif / vídeo em figurinha
@@ -57,13 +54,12 @@ Desc: Marca todos os membros do grupo, inclusive administradores
 Uso: Basta enviar o comando
 Nota: Este comando só pode ser usado se você for administrador do grupo
 
-*PARA O DONO DO BOT:*
+*PARA O DONO DO BOT
 
 Comando : *${prefix}bc*
 Desc: Transmissão
-Uso: *${prefix}bc [texto] * \nexemplo: *${prefix}bc sua mensagem*
-Nota: Este comando só pode ser usado pelo proprietário do bot \n
-Comando : *${prefix}setprefix*
+Uso: *${prefix}bc [texto] * \nexemplo: *${prefix}bc sua mensage
+Comando: * $ {prefix} setprefix*
 Desc: substituir prefixo
 Uso: *${prefix} setprefix [texto | opcional] * \ nexemplo: * $ {prefix}setprefix ?*
 Nota: Este comando só pode ser usado pelo proprietário do bot \n\n
