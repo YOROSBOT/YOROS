@@ -2,7 +2,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/YOROSBOT/YOROS
 ```
 
 ## Install the dependencies:
